@@ -25,7 +25,7 @@ python excitation_ising_input.py --GLOBALARGS_dtype complex128 --bond_dim 2 --ch
 ```
 And then the excited energies can be calculated.
 
-**Ex. 1)** Heisenberg model
+**Ex. 2)** Heisenberg model
 
 ```
 python excitation_hei.py --GLOBALARGS_dtype complex128 --bond_dim 2 --chi 8 --size 11 --seed 123 --j2 0. --instate ex-j20D2chi8c4v_state.json
