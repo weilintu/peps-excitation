@@ -8,7 +8,7 @@ peps-excitation utilizes the ground state ansatz and calculates the excitation a
 - PyTorch 1.+ (see https://pytorch.org/)
 - GPU is recommended to run the code
 
-**More details can be found in the paper.
+**More details can be found in the paper.**
 * * *
 <br>
 
