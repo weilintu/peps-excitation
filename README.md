@@ -1,4 +1,4 @@
-# peps_excitation
+# Generating function for projected entangled-pair states
 ### A tensor network library for two-dimensional excitation
 
 \
