@@ -2,7 +2,7 @@
 ### A tensor network library for two-dimensional excitation
 
 \
-peps-excitation utilizes the ground state ansatz and calculates the excitation ansatz combining the usage of generating function in two dimensions ([PRX Quantum 5, 010335(https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.010335)). 
+peps-excitation utilizes the ground state ansatz and calculates the excitation ansatz combining the usage of generating function in two dimensions [PRX Quantum 5, 010335](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.010335). 
 
 #### Requirement
 - PyTorch 1.+ (see https://pytorch.org/)
