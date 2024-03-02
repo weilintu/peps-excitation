@@ -1,4 +1,4 @@
-# Generating function for projected entangled-pair states
+# Generating Function for Projected Entangled-Pair States
 ### A tensor network library for two-dimensional excitation
 
 \
